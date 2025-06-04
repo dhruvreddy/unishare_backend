@@ -16,7 +16,7 @@ UniShare is a simple API for sharing posts and user information.
 
 ## Architecture
 
-[Architecture Documentation](arch.md)
+[Architecture Documentation](architecture.md)
 
 ## Getting Started
 
